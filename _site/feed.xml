@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Initiative</title>
+    <description>The Data Science Initiative at UCI is super cool.
+</description>
+    <link>https://ucidatascienceinitiative/</link>
+    <atom:link href="https://ucidatascienceinitiative/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 29 Jan 2016 15:50:59 -0800</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2016 15:50:59 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;p&gt;Welcome to UCI’s DSI resource site. We thank you for your patience as we continue to build the rest of the site.
+&lt;img src=&quot;/_images/deathstar_under_construction.jpg  &quot; alt=&quot;Deathstar Under Construction&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 18:06:33 -0800</pubDate>
+        <link>https://ucidatascienceinitiative/jekyll/update/2016/01/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://ucidatascienceinitiative/jekyll/update/2016/01/27/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
