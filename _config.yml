@@ -11,7 +11,7 @@ email: dsi foobar
 description: > # this means to ignore newlines until "baseurl:"
   The Data Science Initiative at UCI is super cool.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ucidatascienceinitiative" # the base hostname & protocol for your site
+url: "https://ucidatascienceinitiative.github.io" # the base hostname & protocol for your site
 facebook_username: uci.datascience
 github_username:  UCIDataScienceInitiative
 
