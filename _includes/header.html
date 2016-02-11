@@ -13,15 +13,20 @@
         </svg>
       </a>
 
-      <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+		<div class="navbar" id="page-top">
+      		<div class="navbar-inner">
+       		  <div class="container">
+            	<a style="font-size:20px; word-spacing: 10px" href="/About/"> About </a>       
+        		<a style="font-size:20px; word-spacing: 10px" href="/Workshops/"> Workshops </a>
+        		<a style="font-size:20px; word-spacing: 10px" href="/Resources/"> Resources </a>
+        		<a style="font-size:20px; word-spacing: 10px" href="/Events/"> Events </a>
+        	  </div>
+        	</div>
       </div>
     </nav>
 
   </div>
 
 </header>
+
+

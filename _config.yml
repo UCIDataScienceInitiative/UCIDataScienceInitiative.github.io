@@ -7,13 +7,13 @@
 
 # Site settings
 title: Data Science Initiative
-email: dsi foobar
+email: datascience@uci.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The Data Science Initiative at UCI is super cool.
+    This site provides information about DSI workshops and recommended resources. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ucidatascienceinitiative.github.io" # the base hostname & protocol for your site
 facebook_username: uci.datascience
-github_username:  UCIDataScienceInitiative
+github_username:  UCI DSI
 
 # Build settings
 markdown: kramdown
