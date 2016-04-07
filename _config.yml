@@ -14,6 +14,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ucidatascienceinitiative.github.io" # the base hostname & protocol for your site
 facebook_username: uci.datascience
 github_username:  UCI DSI
+venue: University of California, Irvine
 
-# Build settings
-markdown: kramdown
+dsi_site: "http://datascience.uci.edu"
+dsi_ws: "http://ucidatascienceinitiative.github.io"
+dsi_facebook: "https://www.facebook.com/uci.datascience/"
+dsi_github: "https://github.com/UCIDataScienceInitiative"
+
+
+# Jekyll Build settings
+markdown        : kramdown
+kramdown        :
+    entity_output: as_input
