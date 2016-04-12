@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome!"
-date:   2016-01-29 18:06:33 -0800
-categories: new site
+title:  "Interactive R with Shiny!"
+date:   2016-04-11 18:06:33 -0800
+categories: Shiny
 ---
-Welcome to UCI's DSI resource site. We thank you for your patience as we continue to build the rest of the site.
+<iframe src="http://shiny.datascience.uci.edu:3838/linggeli7/Sampling/"></iframe>
