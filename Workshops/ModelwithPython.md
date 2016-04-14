@@ -7,7 +7,7 @@ room:		DBH 4011
 humandate:	December 1, 3001
 humantime:	10:30am - 5:00pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython
-permalink: Workshops/PythonModeling/
+permalink: Workshops/ModelwithPython/
 ---
 
 ## Introduction
