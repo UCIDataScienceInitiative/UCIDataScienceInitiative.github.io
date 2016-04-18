@@ -1,11 +1,11 @@
 ---
 layout: workshop
-instructor: "Sephyr Akhavan, Homer Strong "
-TA: 		"Linnge Li, Eric Lai"
-title: 		Advanced R
+instructor: "Sephyr Akhavan, Homer Strong"
+TA: 		"Fulya Ozcan, Bonnie Bui"
+title: 		Introduction to R
 room:		DBH 4011
-humandate:	December 1, 3001
-humantime:	10:30am - 5:00pm 
+humandate:	April 22, 2016
+humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
 permalink: Workshops/IntroR/
 ---
@@ -14,13 +14,13 @@ permalink: Workshops/IntroR/
 
 During the class we will introduce you to the version control software, Git, and the collaboration website Github. The material comes from [Software Carpentry](http://software-carpentry.org). The group's mission is to help scientists and engineers get more research done in less time and with less pain by teaching them basic lab skills for scientific computing. Their hands-on workshops cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
-**Who:** The course is aimed at undergraduate computer science students. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
+**Who:** The course is aimed at graudate students from non-ICS schools. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
 
-**Prerequisites:** Intro to R is recommended. 
+**Prerequisites:** Some programming experience is recommended. 
 
-**Contact**: Please mail [person@uci.edu](mailto:person@uci.edu) for more information.
+**Contact**: Please mail [hstrong@uci.edu](mailto:hstrong@uci.edu) for more information.
 
 * * *
 
