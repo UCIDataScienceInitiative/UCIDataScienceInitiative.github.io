@@ -1,6 +1,6 @@
 ---
 layout: workshop
-instructor: "Sephyr Akhavan, Homer Strong"
+instructor: "Sepehr Akhavan, Homer Strong"
 TA: 		"Fulya Ozcan, Bonnie Bui"
 title: 		Introduction to R
 room:		DBH 4011
