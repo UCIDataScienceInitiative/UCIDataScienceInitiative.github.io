@@ -18,7 +18,7 @@ During the class we will introduce you to the version control software, Git, and
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
 
-**Prerequisites:** Intro to R is recommended. 
+**Prerequisites:** A previous course in programming is recommended. 
 
 **Contact**: Please mail [person@uci.edu](mailto:person@uci.edu) for more information.
 
