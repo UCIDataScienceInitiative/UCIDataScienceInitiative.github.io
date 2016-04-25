@@ -5,7 +5,7 @@ TA:
 title: 		Advanced Predictive Modeling with Python
 room:		DBH 4011
 humandate:	May 6, 2016
-humantime:	9:00am - 1:00am 
+humantime:	9:00am - 1:00pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython
 permalink: Workshops/AdvancedPython/
 ---
