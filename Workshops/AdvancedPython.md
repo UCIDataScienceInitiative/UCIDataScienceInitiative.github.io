@@ -1,26 +1,26 @@
 ---
 layout: workshop
-instructor: "Eric Nalisnick "
-TA: 		
-title: 		Advanced Predictive Modeling with Python
+instructor: "Eric Nalisnick"
+TA: 		""
+title: 		Advanced Predictive Modeling in Python
 room:		DBH 4011
 humandate:	May 6, 2016
-humantime:	9:00am - 1:00pm 
-workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython
-permalink: Workshops/AdvancedPython/
+humantime:	9:00am - 12:30pm 
+workshop-repo: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython
+permalink: Workshops/AdvModelwithPython/
 ---
 
 ## Introduction
 
-During this class we will introduce you to the version control software, Git, and the collaboration website Github. The material comes from [Software Carpentry](http://software-carpentry.org). The group's mission is to help scientists and engineers get more research done in less time and with less pain by teaching them basic lab skills for scientific computing. Their hands-on workshops cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+This half-day course builds upon *Predictive Modeling with Python*, covering best practices for building predictive models that perform well in noisy, real-world domains.  Feature learning/engineering and model ensembling will be the focus of the course.  Examples and exercises will be implemented using Jupyter (formerly iPython) notebooks and the SciKit-Learn library.  Participants must have taken Predictive Modeling with Python or obtain instructor permission to enroll.
 
-**Who:** The course is aimed at undergraduate computer science students. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
+**Who:** Anyone who has completed the *Predictive Modeling with Python* course and wishes to train and deploy predicitve models in real-world domains.
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
 
-**Prerequisites:** A previous course in programming is recommended. 
+**Prerequisites:** *Predictive Modeling with Python* short course
 
-**Contact**: Please mail [person@uci.edu](mailto:person@uci.edu) for more information.
+**Contact**: Please mail [enalisni@uci.edu](mailto:enalisni@uci.edu) for more information.
 
 * * *
 
@@ -30,37 +30,25 @@ During this class we will introduce you to the version control software, Git, an
 
 | Time	       	|           	|
 | ------------- |:-------------:|
-| 10:00-10:30   | Sign-in 		|
-| 10:30-12:30   | Shiny   		|
-| 12:30-1:00	| Lunch			|
-| 1:00-2:30		| RStan & RMarkdown |
-| 2:30-2:45		| Break			|
-| 12:45-2:30	| RStan & RMarkdown |
-
+| 9:00-10:30    | Feature Engineering 		|
+| 10:45-12:30   | Ensembles of Classifiers   	|
 * * *
 
 
 
 ## <a name="Syllabus"></a>Syllabus
 
-* Introduction/Preparation
-* Topic 1
-* Topic 2
-* Student Activities
-* Topic 3
-* Topic 4
-* Arts and Crafts
-* Topic 5
-* Topic 6 (If time permits)
+* Feature Transforms
+* Dimensionality Reduction: PCA
+* Ensembles of Classifiers (Bagging, Voting, and Stacking)
 
 * * *
 
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-Please install Stan beforehand, since it can take a while: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
+See the course's GitHub page for instructions: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython
 
-We'll expect you to have the following packages installed: rstan, shiny, and knitr.
+We'll expect you to have the Anaconda Python distribution installed: https://www.continuum.io/downloads
 
-Using RStudio is encouraged.
-
+Please then run the test notebook to ensure proper installation and to download two datasets: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython/blob/master/Test%20Notebook.ipynb
