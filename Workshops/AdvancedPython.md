@@ -1,7 +1,7 @@
 ---
 layout: workshop
 instructor: "Eric Nalisnick"
-TA: 		""
+TA: 	
 title: 		Advanced Predictive Modeling in Python
 room:		DBH 4011
 humandate:	May 6, 2016
