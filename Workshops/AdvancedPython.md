@@ -7,7 +7,7 @@ room:		DBH 4011
 humandate:	May 6, 2016
 humantime:	9:00am - 12:30pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython
-permalink: Workshops/AdvModelwithPython/
+permalink: Workshops/AdvancedPython/
 ---
 
 ## Introduction
