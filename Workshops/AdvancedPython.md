@@ -32,6 +32,7 @@ This half-day course builds upon *Predictive Modeling with Python*, covering bes
 | ------------- |:-------------:|
 | 9:00-10:30    | Feature Engineering 		|
 | 10:45-12:30   | Ensembles of Classifiers   	|
+
 * * *
 
 
@@ -47,8 +48,8 @@ This half-day course builds upon *Predictive Modeling with Python*, covering bes
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-See the course's GitHub page for instructions: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython
+See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython>
 
-We'll expect you to have the Anaconda Python distribution installed: https://www.continuum.io/downloads
+We'll expect you to have the Anaconda Python distribution installed: <https://www.continuum.io/downloads>
 
-Please then run the test notebook to ensure proper installation and to download two datasets: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython/blob/master/Test%20Notebook.ipynb
+Please then run the test notebook to ensure proper installation and to download two datasets: <https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython/blob/master/Test%20Notebook.ipynb>
