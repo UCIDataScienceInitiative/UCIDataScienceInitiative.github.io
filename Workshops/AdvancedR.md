@@ -1,11 +1,11 @@
 ---
 layout: workshop
-instructor: "Sephyr Akhavan, Homer Strong "
-TA: 		"Linnge Li, Eric Lai"
+instructor: "Sephyr Akhavan, Homer Strong, Brian Espinoza"
+TA: 		"Karen Wood"
 title: 		Advanced R
 room:		DBH 4011
-humandate:	December 1, 3001
-humantime:	10:30am - 5:00pm 
+humandate:	May 13, 2016
+humantime:	9am - 5:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
 permalink: Workshops/AdvancedR/
 ---
