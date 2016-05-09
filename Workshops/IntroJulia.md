@@ -12,17 +12,15 @@ permalink: Workshops/IntroJulia/
 
 ## Introduction
 
-This course provides an introduction to the fundamentals of the R language and its applications to data analysis.
+Julia is a relatively new language which has been making waves in the scientific community due to its ease of use as a scripting language combined with its ability to produce programs with comparable runtimes to C/Fortran. For this reason, Julia is situated is fast becoming a major language in high-performance and “big data” computing. However, the current state of the Julia ecosystem can be intimidating to much of its target audience, which is both high-level scriptors (using MATLAB/Python/R) all the way to developers of high-performance libraries (using C/Fortran). This workshop is aims to introduce both users of scripting languages and advanced programmers to the Julia ecosystem, and explore details about the Julia language which can help produce efficient and readable code. The goal of the workshop is for students to understand where Julia can be applied and be well-equipped to start using Julia in their own research. Students will learn about the current state of Julia development (IDEs, documentation, where to get help), how to write efficient code by understanding some of Julia's internals via small projects, solve problems using advanced Julia features (metaprogramming, multiple-dispatch, etc.), and learn workarounds to common issues newcomers face (scoping problems, type conversions, etc.). Near the end of the workshop, participants will break out into groups to solve problems which mirror research problems in data science and scientific computing. 
 
-In this course, you will learn how to program in R and how to effectively use R for data analysis. The course covers introduction to data/object types in R, reading data, creating data visualizations, accessing and installing R packages, writing R functions, fitting statistical models including regression models and performing statistical tests including t-tests and ANOVA. Practical examples will be provided during the course.
+**Who:** Reserchers who understand the fundamentals of some other scripting language and want to learn how to utilize Julia. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
 
-**Who:** The course is aimed at graudate students and other researchers from non-ICS schools. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
+**Requirements:** Participants must bring a laptop. Ideally a few specific software packages should be installed beforehand (see [Pre-Workshop Instructions](#Instructions)). 
 
-**Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
+**Prerequisites:** Previous experience with a scripting language (R/Python/MATLAB etc.).
 
-**Prerequisites:** Some programming experience is recommended. 
-
-**Contact**: Please mail [hstrong@uci.edu](mailto:hstrong@uci.edu) for more information.
+**Contact**: Please mail [crackauc@uci.edu](mailto:crackauc@uci.edu) for more information.
 
 * * *
 
@@ -32,12 +30,11 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 | Time	       	|           	|
 | ------------- |:-------------:|
-| 9:00-10:30   | Session 1		|
-| 10:30-12:30   | Session 2   		|
-| 12:30-1:00	| Lunch			|
-| 1:00-2:30		| Session 3 |
-| 2:30-2:45		| Break			|
-| 3:00-500	| Session 4 |
+| 8:00-9:00   | Installation Help Session	|
+| 10:00-11:00   | Basic Introduction		|
+| 11:00-12:00	| Julia Fundamentals			|
+| 12:00-1:00		| Breakout into Project Groups |
+
 
 * * *
 
@@ -45,39 +42,36 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 ## <a name="Syllabus"></a>Syllabus
 
-* Data Types in R
-* Control Structures and Functions
-* Statistical Distributions in R
-* Exercises: Basic Data Exploration
-* Statistical Analysis in R
-* Plotting and Data Visualization in R
-* Data visualization & Statistical Analysis
+* Basic Introduction
+  * Why Julia? When to choose Julia?
+  * Installing/Building Julia, Setting up an IDE
+  * Package Management and Github
+  * Basic usage: control statements, types, and functions
+  * Where to get help: documentation, message boards, etc.
+  * Plotting and Data Visualization in R
+  * Data visualization & Statistical Analysis
+* Fundamentals of Julia
+  * Differences from other common languages
+  * Linear algebra
+  * Data-oriented programming
+  * Macro meta-programming
+  * Levels of parallelization
+  * De-vectorization, SIMD, threading
+  * Named functions
+  * Subscoping
+  * LLVM
+* Guided Projects
+  * Mathematical Modeling
+  * Data Visualization
+  * Multi-node HPC ("Julia's MPI")
+  * Investigating LLVM
+  * Modules and Package Development
+  * Langugage Bindings
+  * Data Saving and Serialization
 
 * * *
 
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-### Step 1: Download and install R
-First, visit The R Project for Statistical Computing's website through <https://www.r-project.org/>. Click on "CRAN" under the Download section on the left-hand side of the page. Then, click on any of the nearby websites under the USA section near the bottom of the page. For example, the link from the University of California, Berkley, CA or University of California, Los Angeles, CA are both fine. Download R for your platform (Linux, Mac, or Windows).
-
-
-### Step 2: Download and install RStudio
-RStudio is a set of integrated tools designed to help you be more productive with R; it is known to be more user-friendly. You will be doing essentially all of your programming in RStudio. To download RStudio, go to <https://www.rstudio.com/products/rstudio/download/>. Download the installer for your platform under "Installers for Supported Platforms".
-
-### Step 3: Installing packages
-After installing R and RStudio, open RStudio. Not all functions have been installed in R, so utilizing certain functions requires you to install a package and ``open'' that package every time you open a new R session. There are two ways to install packages in RStudio.
-
-* Method 1: Find your console (for first-time R users, the console is located at the bottom-left of RStudio's interface). Then type the following code and press Ctrl + Enter or Run (the quotation marks are needed between the package name):
-
-```
-R> install.packages("PackageName", dependencies = TRUE)
-```
-
-* Method 2: On RStudio's taskbar, click on "Tools" and then "Install Packages..." Afterwards, put down the name of the package(s) you wish to install and click install.
-
-Before the workshop begins, please install the following packages: ggplot2. See below for example command.
-
-```
-R> install.packages("ggplot2", dependencies = TRUE)
-```
+Installing Julia beforehand is not required, though highly recommended. Attendees may wish to install the Julia/Atom IDE before the workshop, though be advised this may not be easy (https://github.com/JunoLab/atom-julia-client/tree/master/manual) . Help for doing so can be found at the UCI Data Science Initiative Gitter (https://gitter.im/UCIDataScienceInitiative/Julia) and the JunoLab Gitter (https://gitter.im/JunoLab/Juno).  Before the workshop we will have a one-hour installation session for users who are having issues.
