@@ -2,7 +2,7 @@
 layout: workshop
 instructor: "Sephyr Akhavan, Homer Strong, Brian Espinoza"
 TA: 		"Karen Wood"
-title: 		Topics in R
+title: 		"Topics in R"
 room:		DBH 4011
 humandate:	May 13, 2016
 humantime:	9am - 5:00pm 
