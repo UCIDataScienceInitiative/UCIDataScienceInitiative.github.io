@@ -1,6 +1,6 @@
 ---
 layout: workshop
-instructor: "Chris Rackaukas"
+instructor: "Chris Rackauckas"
 TA: 		
 title: 		Introduction to Julia
 room:		DBH 3011
