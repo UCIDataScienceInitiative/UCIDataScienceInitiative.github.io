@@ -31,8 +31,8 @@ Julia is a relatively new language which has been making waves in the scientific
 | Time	       	|           	|
 | ------------- |:-------------:|
 | 8:00-9:00   | Installation Help Session	|
-| 10:00-11:00   | Basic Introduction		|
-| 11:00-12:00	| Julia Fundamentals			|
+| 9:00-10:00   | Basic Introduction		|
+| 10:00-12:00	| Julia Fundamentals			|
 | 12:00-1:00		| Breakout into Project Groups |
 
 
