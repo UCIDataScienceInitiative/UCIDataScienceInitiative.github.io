@@ -81,3 +81,6 @@ Before the workshop begins, please install the following packages: ggplot2. See 
 ```
 R> install.packages("ggplot2", dependencies = TRUE)
 ```
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_to_r_05_31_16"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_to_r_05_31_16" title="Online Form">Online Form - 5/31/16 - Intro to R</a></noscript>
+
+
