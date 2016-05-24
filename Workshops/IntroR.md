@@ -1,10 +1,10 @@
 ---
 layout: workshop
 instructor: "Sepehr Akhavan, Homer Strong"
-TA: 		"Fulya Ozcan, Bonnie Bui"
+TA: 		
 title: 		Introduction to R
-room:		DBH 4011
-humandate:	April 22, 2016
+room:		DBH 3011
+humandate:	May 31, 2016
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
 permalink: Workshops/IntroR/
