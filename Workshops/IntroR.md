@@ -1,6 +1,6 @@
 ---
 layout: workshop
-instructor: "Sepehr Akhavan, Homer Strong"
+instructor: "Emma Smith, Wen He"
 TA: 		
 title: 		Introduction to R
 room:		DBH 3011
