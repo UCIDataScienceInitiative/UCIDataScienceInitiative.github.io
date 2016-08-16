@@ -8,18 +8,12 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        
-          {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
-          {% endif %}
-
-          {% if site.facebook_username %}
           <li>
-            {% include icon-github.html username=site.facebook_username %}
+            {% include icon-facebook.html username=site.facebook_username %}
           </li>
-          {% endif %}
         </ul>
       </div>
 
