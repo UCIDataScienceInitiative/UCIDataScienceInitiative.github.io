@@ -7,7 +7,7 @@ room:		DBH 4011
 humandate:	Oct 20, 2016
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
-permalink: Workshops/IntroR/
+permalink: Workshops/NGS/
 ---
 
 ## Introduction
