@@ -7,7 +7,7 @@ room:		DBH 4011
 humandate:	May 13, 2016
 humantime:	9am - 5:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
-permalink: Workshops/AdvancedR/
+permalink: Workshops/TopicsR/
 ---
 
 ## Introduction
