@@ -1,11 +1,11 @@
 ---
 layout: workshop
-instructor: "Sephyr Akhavan, Homer Strong "
-TA: 		"Linnge Li, Eric Lai"
-title: 		Advanced R
-room:		DBH 4011
-humandate:	December 1, 3001
-humantime:	10:30am - 5:00pm 
+instructor: "Harry Mangalam"
+TA: 		"Alex Chase"
+title: 		Intro to Linux on the HPC
+room:		DBH 3011
+humandate:	October 3, 2016
+humantime:	9:00am - 5:00pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroductionToLinux
 permalink: Workshops/IntroLinux/
 ---
