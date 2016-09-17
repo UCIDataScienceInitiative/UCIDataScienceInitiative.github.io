@@ -1,11 +1,11 @@
 ---
 layout: workshop
-instructor: "Sephyr Akhavan, Homer Strong "
-TA: 		"Linnge Li, Eric Lai"
-title: 		Advanced R
+instructor: "Brian Vegetabile, Christine Lee, Eric Nalisnick "
+TA: 		"Preston Hinkle"
+title: 		Predictive Modeling with Python
 room:		DBH 4011
-humandate:	December 1, 3001
-humantime:	10:30am - 5:00pm 
+humandate:	November 7, 2016
+humantime:	9:00am - 5:00pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython
 permalink: Workshops/ModelwithPython/
 ---
