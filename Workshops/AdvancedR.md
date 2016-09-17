@@ -1,11 +1,11 @@
 ---
 layout: workshop
-instructor: "Sephyr Akhavan, Homer Strong, Brian Espinoza"
-TA: 		"Karen Wood"
+instructor: "Lingge Li, Dustin Pluta"
+TA: 		"Colleen Nell"
 title: 		"Topics in R"
 room:		DBH 4011
-humandate:	May 13, 2016
-humantime:	9am - 5:00pm 
+humandate:	December 2, 2016
+humantime:	9am - 1:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
 permalink: Workshops/TopicsR/
 ---
@@ -19,7 +19,7 @@ This workshop covers RMarkdown and will include composing an analyses in an RMar
 
 **Prerequisites:** Introduction to R, or equivalent experience using R.
 
-**Contact**: Please mail [hstrong@uci.edu](mailto:hstrong@uci.edu) for more information.
+**Contact**: Please mail [dpluta@gmail.com](mailto:dpluta@gmail.com) or [linggel@uci.edu](mailto:linggel@uci.edu) for more information.
 
 * * *
 
