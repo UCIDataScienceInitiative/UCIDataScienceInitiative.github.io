@@ -3,10 +3,10 @@ layout: workshop
 instructor: "Chris Rackauckas"
 TA: 		
 title: 		Introduction to Julia
-room:		DBH 3011
-humandate:	May 24, 2016
-humantime:	9:00am - 1:00pm
-workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
+room:		DBH 4011
+humandate:	October 25, 2016
+humantime:	9:00am - 5:00pm
+workshop-repo: https://github.com/UCIDataScienceInitiative/IntroToJulia 
 permalink: Workshops/IntroJulia/
 ---
 
