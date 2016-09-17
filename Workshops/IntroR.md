@@ -1,10 +1,10 @@
 ---
 layout: workshop
-instructor: "Emma Smith, Wen He"
+instructor: "Emma Smith, Steven Brownlee"
 TA: 		
 title: 		Introduction to R
-room:		DBH 3011
-humandate:	May 31, 2016
+room:		DBH 4011
+humandate:	October 7, 2016
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
 permalink: Workshops/IntroR/
@@ -22,7 +22,7 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 **Prerequisites:** Some programming experience is recommended. 
 
-**Contact**: Please mail [hstrong@uci.edu](mailto:hstrong@uci.edu) for more information.
+**Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [sbrownle@uci.edu](mailto:sbrownle@uci.edu) for more information.
 
 * * *
 
