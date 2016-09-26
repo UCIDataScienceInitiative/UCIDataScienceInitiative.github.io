@@ -64,4 +64,5 @@ We'll expect you to have the following packages installed: rstan, shiny, and kni
 
 Using RStudio is encouraged.
 
+## Registration
 <script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/introlinux_100316"></script><noscript><a href="https://uci-oai.formstack.com/forms/introlinux_100316" title="Online Form">Online Form - 10/3/16 - Intro to Linux</a></noscript>
