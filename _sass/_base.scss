@@ -178,8 +178,8 @@ pre {
  * Wrrapperr
  */
 .wrrapperr {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 1.5));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 1.5));
     margin-right: auto;
     margin-left: 15%;
     padding-right: $spacing-unit;
