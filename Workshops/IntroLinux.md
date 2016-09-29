@@ -12,15 +12,15 @@ permalink: Workshops/IntroLinux/
 
 ## Introduction
 
-During the class we will introduce you to the version control software, Git, and the collaboration website Github. The material comes from [Software Carpentry](http://software-carpentry.org). The group's mission is to help scientists and engineers get more research done in less time and with less pain by teaching them basic lab skills for scientific computing. Their hands-on workshops cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+This course covers how to best exploit the bash shell for both interactive work and batch jobs, moving & simple manipulation of data, as well very short introductions to programming in bash, Perl, and R. This is not computer science; this is a driver’s license.
 
-**Who:** The course is aimed at undergraduate computer science students. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
+**Who:** This course is for researchers who have never used Linux and/or a computer cluster and introduces concepts and best practices for both. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
 
-**Prerequisites:** Intro to R is recommended. 
+**Prerequisites:** Basic programming experience. 
 
-**Contact**: Please mail [person@uci.edu](mailto:person@uci.edu) for more information.
+**Contact**: Please mail [hjmangalam@gmail.com](mailto:hjmangalam@gmail.com) for more information.
 
 * * *
 
@@ -30,12 +30,12 @@ During the class we will introduce you to the version control software, Git, and
 
 | Time	       	|           	|
 | ------------- |:-------------:|
-| 10:00-10:30   | Sign-in 		|
-| 10:30-12:30   | Shiny   		|
+| 9:00-10:30   | Intro to the Shell|
+| 10:30-12:30   | Topic 2   		|
 | 12:30-1:00	| Lunch			|
-| 1:00-2:30		| RStan & RMarkdown |
+| 1:00-2:30		| Topic 3 |
 | 2:30-2:45		| Break			|
-| 12:45-2:30	| RStan & RMarkdown |
+| 2:45-5:00	| Grand Finale |
 
 * * *
 
@@ -58,11 +58,7 @@ During the class we will introduce you to the version control software, Git, and
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-Please install Stan beforehand, since it can take a while: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
-
-We'll expect you to have the following packages installed: rstan, shiny, and knitr.
-
-Using RStudio is encouraged.
+Please bring a wi-fi compatible laptop and your charger. Mac users, please be able to access Terminal (it's pre-installed on your computer). Windows users, please download and install PuTTY [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). For all users, we recommend X2Go, found [here](http://wiki.x2go.org/doku.php). 
 
 ## Registration
 <script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/introlinux_100316"></script><noscript><a href="https://uci-oai.formstack.com/forms/introlinux_100316" title="Online Form">Online Form - 10/3/16 - Intro to Linux</a></noscript>
