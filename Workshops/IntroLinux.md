@@ -60,5 +60,5 @@ This course covers how to best exploit the bash shell for both interactive work 
 
 Please bring a wi-fi compatible laptop and your charger. Mac users, please be able to access Terminal (it's pre-installed on your computer). Windows users, please download and install PuTTY [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). For all users, we recommend X2Go, found [here](http://wiki.x2go.org/doku.php). 
 
-## Registration
+## Registration 
 <script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/introlinux_100316"></script><noscript><a href="https://uci-oai.formstack.com/forms/introlinux_100316" title="Online Form">Online Form - 10/3/16 - Intro to Linux</a></noscript>
