@@ -1,7 +1,7 @@
 ---
 layout: workshop
 instructor: "Emma Smith, Steven Brownlee"
-TA: 		
+TA: 		"Summer Wang"
 title: 		Introduction to R
 room:		DBH 4011
 humandate:	October 7, 2016
