@@ -32,12 +32,12 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 | Time	       	|           	|
 | ------------- |:-------------:|
-| 9:00-10:30   | Session 1		|
-| 10:30-12:30   | Session 2   		|
+| 8:30-9:00  | Sign-in & Coffee/Bagels	|
+| 9:00-12:30 | Instruction |
 | 12:30-1:00	| Lunch			|
-| 1:00-2:30		| Session 3 |
-| 2:30-2:45		| Break			|
-| 3:00-500	| Session 4 |
+| 1:00-2:30		| Instruction |
+| 2:30-2:45		| Break	with Coffee/Drinks|
+| 3:00-5:00	  | Final Instruction |
 
 * * *
 
