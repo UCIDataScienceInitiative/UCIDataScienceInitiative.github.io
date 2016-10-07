@@ -50,3 +50,5 @@ We'll expect you to have the following packages installed: `dplyr`, `magrittr`, 
 
 Using RStudio is encouraged.
 
+
+### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop">Github Repo</a>
