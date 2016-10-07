@@ -6,6 +6,7 @@ categories: Posters
 ---
 
 ## <a name="Posters"></a>Poster Presenters
+
 |Name       	|       Department    	| Poster Title |
 |:------------- |:-------------|:-----------:|
 |Alexander Chase  | Ecology and Evolutionary Biology|Analysis of an Abundant Bacterial Genus in a Leaf Litter Community |
