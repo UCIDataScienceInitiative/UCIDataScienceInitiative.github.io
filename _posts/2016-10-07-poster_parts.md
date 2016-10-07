@@ -66,7 +66,7 @@ Characterization</td>
 Spatial-Temporal-Text Data</td>
 		</tr>
 		<tr>
-			<td>Bailey Kong</td>
+			<td>Bailey Kong and James Supancic</td>
 			<td>Computer Science</td>
 			<td>Providing a Statistical Foundation for Shoeprint Forensics</td>
 		</tr>
