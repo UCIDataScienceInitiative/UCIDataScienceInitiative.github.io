@@ -5,7 +5,6 @@ date:   2016-10-06 19:15:01 -0800
 categories: Posters
 ---
 
-## <a name="Posters"></a>Poster Presenters
 
 |Name       	|       Department    	| Poster Title |
 |:------------- |:-------------|:-----------:|
