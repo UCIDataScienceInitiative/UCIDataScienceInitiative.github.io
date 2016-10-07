@@ -6,7 +6,7 @@ categories: Posters
 ---
 
 |Name       	|       Department    	| Poster Title |
-| ------------- |:-------------:|:-----------:|
+|:------------- |:-------------|-----------:|
 |Alexander Chase  | Ecology and Evolutionary Biology|Analysis of an Abundant Bacterial Genus in a Leaf Litter Community |
 | Arnau Francí-Rodon   | Mechanical and Aerospace Engineering   |Optimization of Air Traffic Control in the Face of Convective Weather Fronts |
 | Christopher Rackauckas	|Mathematics	| Early-Warning Signals of Metastasis in Human Breast Cancer|
