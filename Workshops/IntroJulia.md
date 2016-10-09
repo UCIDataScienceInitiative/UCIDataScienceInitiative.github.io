@@ -48,7 +48,6 @@ Julia is a relatively new language which has been making waves in the scientific
   * Package Management and Github
   * Basic usage: control statements, types, and functions
   * Where to get help: documentation, message boards, etc.
-  * Plotting and Data Visualization in R
   * Data visualization & Statistical Analysis
 * Fundamentals of Julia
   * Differences from other common languages
@@ -74,7 +73,7 @@ Julia is a relatively new language which has been making waves in the scientific
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-Installing Julia beforehand is not required, though highly recommended. Attendees may wish to install the Julia/Atom IDE before the workshop, though be advised this may not be easy <https://github.com/JunoLab/atom-julia-client/tree/master/manual> . Help for doing so can be found at the UCI Data Science Initiative Gitter <https://gitter.im/UCIDataScienceInitiative/IntroToJulia> and the JunoLab Gitter <https://gitter.im/JunoLab/Juno>.  Before the workshop we will have a one-hour installation session for users who are having issues.
+Installing Julia beforehand is not required, though highly recommended. Attendees may wish to install the Julia/Atom IDE before the workshop. Instructions for doing so are provided at: <http://ucidatascienceinitiative.github.io/IntroToJulia/Html/ToolingDocumentationCommunity>. Help for doing so can be found at the UCI JuliaLang Gitter <https://gitter.im/JuliaLang/julia> and the JunoLab Gitter <https://gitter.im/JunoLab/Juno>.  Before the workshop we will have a one-hour installation session for users who are having issues.
 
 
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroToJulia">Github Repo</a>
