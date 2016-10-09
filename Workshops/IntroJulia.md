@@ -76,4 +76,4 @@ Julia is a relatively new language which has been making waves in the scientific
 Installing Julia beforehand is not required, though highly recommended. Attendees may wish to install the Julia/Atom IDE before the workshop. Instructions for doing so are provided at: <http://ucidatascienceinitiative.github.io/IntroToJulia/Html/ToolingDocumentationCommunity>. Help for doing so can be found at the UCI JuliaLang Gitter <https://gitter.im/JuliaLang/julia> and the JunoLab Gitter <https://gitter.im/JunoLab/Juno>.  Before the workshop we will have a one-hour installation session for users who are having issues.
 
 
-### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroToJulia">Github Repo</a>
+### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroToJulia">Github Repository</a>
