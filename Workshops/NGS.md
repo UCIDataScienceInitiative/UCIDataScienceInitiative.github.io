@@ -62,7 +62,7 @@ a free HPC account
 ### For windows users
 Please install the "putty" terminal program (http://goo.gl/XbTF) and the Windows x2go client (http://code.x2go.org/releases/binary-win32/x2goclient/releases/4.0.0.3/x2goclient-4.0.0.3-setup.exe)
 
-### 
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_to_r_05_31_16"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_to_r_05_31_16" title="Online Form">Online Form - 5/31/16 - Intro to R</a></noscript>
+### <a name="Instructions"></a>Registration
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/ngs_10202016"></script><noscript><a href="https://uci-oai.formstack.com/forms/ngs_10202016" title="Online Form">Online Form - 10/20/16 - NGS Data Analysis</a></noscript>
 
 
