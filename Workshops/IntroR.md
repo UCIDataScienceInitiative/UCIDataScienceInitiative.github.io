@@ -1,10 +1,10 @@
 ---
 layout: workshop
-instructor: "Emma Smith, Steven Brownlee"
-TA: 		"Summer Wang"
+instructor: "Emma Smith, Steven Brownlee, Yuxiao Wang"
+TA: 		"Jiujuan Liu"
 title: 		Introduction to R
 room:		DBH 4011
-humandate:	October 7, 2016
+humandate:	November 18, 2016
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
 permalink: Workshops/IntroR/
