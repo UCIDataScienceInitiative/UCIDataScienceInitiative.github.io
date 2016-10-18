@@ -77,3 +77,6 @@ Installing Julia beforehand is not required, though highly recommended. Attendee
 
 
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroToJulia">Github Repository</a>
+
+### Registration
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/julia_102516"></script><noscript><a href="https://uci-oai.formstack.com/forms/julia_102516" title="Online Form">Online Form - 10/25/16 - Intro to Julia</a></noscript>
