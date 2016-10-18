@@ -1,5 +1,5 @@
 ---
-layout: workshop
+layout: one_instruct_ws
 instructor: "Chris Rackauckas"
 TA: 		
 title: 		Introduction to Julia
