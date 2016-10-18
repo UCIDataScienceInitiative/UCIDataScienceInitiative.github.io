@@ -1,0 +1,73 @@
+---
+---
+<!DOCTYPE html>
+<!--
+  Use this layout for the home page for the workshop website.
+  Use 'page.html' for other pages.
+-->
+<html>
+  <head>
+    <title>Data Science Initiative: {{ site.venue }}</title>
+    {% include wsheader.html %}
+    <meta name="slug" content="{{site.github.project_title}}" />
+    <meta name="startdate" content="{{page.startdate}}" />
+    <meta name="enddate" content="{{page.enddate}}" />
+    <meta name="country" content="{{page.country}}" />
+    <meta name="venue" content="{{page.venue}}" />
+    <meta name="address" content="{{page.address}}" />
+    <meta name="latlng" content="{{page.latlng}}" />
+    <meta name="language" content="{{page.language}}" />
+    <meta name="eventbrite" content="{{page.eventbrite}}" />
+    <meta name="instructor" content="{{page.instructor|join:'|'}}" />
+    <meta name="helper" content="{{page.helper|join:'|'}}" />
+    <meta name="contact" content="{{page.contact}}" />
+    {% if page.redirect %}
+    <meta http-equiv="refresh" content="0; url={{page.redirect}}" />
+    {% endif %}
+  </head>
+  <body class="workshop">
+
+ <!--   {% include wsgithub-ribbon.html %} -->
+
+    <div class="container card">
+      {% include wsbanner.html %}
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <h2>{{page.title}}</h2>
+            <div class="row">
+              <div class="col-md-6">
+                <p>{{page.humandate}}</p>
+                <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
+                <p>{{page.room}}</p>
+              </div>
+              <div class="col-md-6">
+                <p>
+                <strong>Instructor:</strong>
+                {% if page.instructor %}
+                {{page.instructor | join: ', ' %}}
+                {% else %}
+                to be announced.
+                {% endif %}
+                </p>
+                {% if page.TA %}
+                <p>
+                <strong>TAs:</strong>
+                {{page.TA | join: ', ' %}}
+                </p>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          {{content}}
+        </div>
+      </div>
+      {% include wsfooter.html %}
+    </div>
+    {% include wsjavascript.html %}
+  </body>
+</html>
