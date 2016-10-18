@@ -32,7 +32,7 @@ Julia is a relatively new language which has been making waves in the scientific
 | ------------- |:-------------:|
 | 8:00-9:00   | Installation Help Session	|
 | 9:00-11:00  | Basic Introduction to Julia		|
-| 10:00-12:00	| Why Julia? An In-depth Intro Into How Julia Gets Its Speed			|
+| 11:00-12:00	| Why Julia? An In-depth Intro Into How Julia Gets Its Speed			|
 | 12:00-1:00		| Lunch break |
 | 1:00-3:00   | Exploring Julia's Packages|
 | 3:00-5:00   | Guided Group Projects |
