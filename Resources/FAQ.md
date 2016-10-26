@@ -15,7 +15,7 @@ permalink: /FAQ/
 > on the latest workshop schedule hosted on the <a href="http://ucidatascienceinitiative.github.io">front page</a>.
 
 # Where are your workshops held?
-> Workshops are typically held in Donald Bren Hall 3011 or 4011. Events and courses co-sponsored by other groups may be held in other locations such as Calit2.
+> Workshops are typically held in Donald Bren Hall 3011 or 4011. Events and courses that are co-sponsored by other groups may be held in > other locations such as Calit2.
 
 
 # Why am I unable to register?
