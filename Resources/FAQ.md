@@ -4,7 +4,6 @@ title: FAQ
 permalink: Resources/FAQ/
 ---
 
-## FAQ
 
 # When does registration for \(this\) workshop open?
 > Registration for a workshop typically opens 7 days before the course is scheduled. 
