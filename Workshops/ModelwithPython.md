@@ -12,9 +12,9 @@ permalink: Workshops/ModelwithPython/
 
 ## Introduction
 
-During this class we will introduce you to the version control software, Git, and the collaboration website Github. The material comes from [Software Carpentry](http://software-carpentry.org). The group's mission is to help scientists and engineers get more research done in less time and with less pain by teaching them basic lab skills for scientific computing. Their hands-on workshops cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+Python is a popular language for scientific processing and machine learning. This course will introduce general modeling concepts in addition to concrete examples based on the scikit-learn library. Example usage of scikit-learn will illustrate how to fit and evaluate predictive models. Regression and classification settings will be considered. The course will be taught mostly through the medium of iPython notebooks.
 
-**Who:** The course is aimed at undergraduate computer science students. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
+**Who:** This course is targeted primarily at graduate students and researchers who have not already taken a full course in machine learning.
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
 
@@ -30,12 +30,12 @@ During this class we will introduce you to the version control software, Git, an
 
 | Time	       	|           	|
 | ------------- |:-------------:|
-| 10:00-10:30   | Sign-in 		|
-| 10:30-12:30   | Shiny   		|
+| 8:30-9:00   | Sign-in 		|
+| 9:00-12:30   | Learning  		|
 | 12:30-1:00	| Lunch			|
-| 1:00-2:30		| RStan & RMarkdown |
+| 1:00-2:30		| More Learning |
 | 2:30-2:45		| Break			|
-| 12:45-2:30	| RStan & RMarkdown |
+| 2:30-5:00	| Extreme Learning |
 
 * * *
 
@@ -58,10 +58,6 @@ During this class we will introduce you to the version control software, Git, an
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-Please install Stan beforehand, since it can take a while: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
 
-We'll expect you to have the following packages installed: rstan, shiny, and knitr.
-
-Using RStudio is encouraged.
 
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython">Github Repo</a>
