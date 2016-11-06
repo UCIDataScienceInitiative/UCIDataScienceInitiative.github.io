@@ -12,7 +12,7 @@ permalink: Workshops/ModelwithPython/
 
 ## Introduction
 
-Python is a popular language for scientific processing and machine learning. This course will introduce general modeling concepts via exercises in which participants implement regression models in raw python and via the scikit-learn library.  Focus will be given to model fitting and evaluation. The course will be taught mostly through the medium of iPython notebooks.
+Python is a popular language for scientific computing and machine learning. This course will introduce general modeling concepts via exercises in which participants implement regression models in raw python and via the scikit-learn library.  Focus will be given to model fitting and evaluation. The course will be taught mostly through the medium of iPython notebooks.
 
 **Who:** This course is targeted primarily at graduate students and researchers who have not already taken a full course in machine learning.
 
