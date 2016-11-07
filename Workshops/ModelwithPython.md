@@ -48,14 +48,14 @@ Python is a popular language for scientific computing and machine learning. This
   * Pandas
 2. Linear Regression
   * Model
-  * SGD Solution
+  * GD Solution
   * OLS Solution
 3. Out of Sample Prediction
   * Cross validation
   * Regularization
 4. Logistic Regression
   * Model
-  * SGD Solution
+  * GD Solution
   * Newton's method
   * More Applications
 * * *
