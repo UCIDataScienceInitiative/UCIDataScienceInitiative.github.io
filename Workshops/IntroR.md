@@ -1,7 +1,7 @@
 ---
 layout: workshop
-instructor: "Emma Smith, Steven Brownlee, Yuxiao Wang"
-TA: 		"Jiujuan Liu"
+instructor: "Emma Smith, Yuxiao Wang"
+TA: 		"Stephanie Pulles"
 title: 		Introduction to R
 room:		DBH 4011
 humandate:	November 18, 2016
@@ -22,7 +22,7 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 **Prerequisites:** Some programming experience is recommended. 
 
-**Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [sbrownle@uci.edu](mailto:sbrownle@uci.edu) for more information.
+**Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [yuxiaow1@uci.edu](mailto:yuxiaow1@uci.edu) for more information.
 
 * * *
 
