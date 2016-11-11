@@ -79,6 +79,4 @@ R> install.packages("PackageName", dependencies = TRUE)
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroR_Workshop">Github Repo</a>
 
 ### <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intror_100716"></script><noscript><a href="https://uci-oai.formstack.com/forms/intror_100716" title="Online Form">Online Form - 10/7/16 - Intro to R</a></noscript>
-
-
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intror_111816"></script><noscript><a href="https://uci-oai.formstack.com/forms/intror_111816" title="Online Form">Online Form - 11/18/16 - Intro to R</a></noscript>
