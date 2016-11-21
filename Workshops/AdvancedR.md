@@ -5,7 +5,7 @@ TA: 		"Colleen Nell"
 title: 		"Topics in R"
 room:		DBH 4011
 humandate:	December 2, 2016
-humantime:	9am - 1:00pm 
+humantime:	9am - 5:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
 permalink: Workshops/TopicsR/
 ---
