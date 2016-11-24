@@ -5,16 +5,14 @@ TA: 		"Colleen Nell"
 title: 		"Topics in R"
 room:		DBH 4011
 humandate:	December 2, 2016
-humantime:	9am - 5:00pm 
+humantime:	9am - 4:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
 permalink: Workshops/TopicsR/
 ---
 
 ## Introduction
 
-This workshop covers several advanced topics in R, including building web apps with Shiny and reports with RMarkdown.
-
-This workshop covers RMarkdown and will include composing an analyses in an RMarkdown document. There will be an introduction to the Shiny library for building web applications and dashboards. Other tentative topics include "tidying" data with tidyr, dplyr, and plyr, and debugging methods. The class requires proficiency in R programming.
+This workshop covers data visualization and performance issues in R. You will become familiar with the layered grammar of graphics behind ggplot2 and the reactive environment in Shiny through detailed hands-on examples. For the second half of the course, you will be guided through vector methods and vectorization, as well as other methods to write cleaner, quicker performance code.
 
 
 **Prerequisites:** Introduction to R, or equivalent experience using R.
@@ -30,14 +28,13 @@ This workshop covers RMarkdown and will include composing an analyses in an RMar
 | Time	       	|           	|
 | ------------- |:-------------:|
 | 8:30-9:00   | Sign-in 		|
-| 9:00-10:20   | dplyr/Magrittr  |
+| 9:00-10:20   | ggplot2  |
 | 10:20-10:30   | break  |
-| 10:30-12:30   | Writing R packages	|
+| 10:30-12:30   | Shiny	|
 | 12:30-1:00	| Lunch			|
-| 1:00-1:45		| String processing: stringr |
-| 1:45-2:30		| Web scraping: rvest |
+| 1:00-2:30		| Vectors |
 | 2:30-2:45		| Break			|
-| 2:45-4:00	| Shiny |
+| 2:45-4:00	| More Performance |
 
 * * *
 
@@ -46,7 +43,7 @@ This workshop covers RMarkdown and will include composing an analyses in an RMar
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-We'll expect you to have the following packages installed: `dplyr`, `magrittr`, `shiny`, `devtools`, `knitr`, `stringr`.
+We'll expect you to have the following packages installed: `ggplot2`, `shiny`.
 
 Using RStudio is encouraged.
 
@@ -54,4 +51,4 @@ Using RStudio is encouraged.
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop">Github Repo</a>
 
 ## <a name="Registration"></a>Registration
-
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/topics_r_120216"></script><noscript><a href="https://uci-oai.formstack.com/forms/topics_r_120216" title="Online Form">Online Form - 12/2/16 - Topics in R</a></noscript>
