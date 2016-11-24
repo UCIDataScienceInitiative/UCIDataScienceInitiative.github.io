@@ -54,4 +54,4 @@ Using RStudio is encouraged.
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop">Github Repo</a>
 
 ## <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/topics_r_120216"></script><noscript><a href="https://uci-oai.formstack.com/forms/topics_r_120216" title="Online Form">Online Form - 12/2/16 - Topics in R</a></noscript>
+
