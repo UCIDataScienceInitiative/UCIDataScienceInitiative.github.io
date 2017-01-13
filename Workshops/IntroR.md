@@ -1,10 +1,10 @@
 ---
 layout: workshop
 instructor: "Emma Smith, Yuxiao Wang"
-TA: 		"Stephanie Pulles"
+TA: 		"Angela Garibaldi"
 title: 		Introduction to R
 room:		DBH 4011
-humandate:	November 18, 2016
+humandate:	January 20, 2017
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
 permalink: Workshops/IntroR/
@@ -79,4 +79,4 @@ R> install.packages("PackageName", dependencies = TRUE)
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroR_Workshop">Github Repo</a>
 
 ### <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intror_111816"></script><noscript><a href="https://uci-oai.formstack.com/forms/intror_111816" title="Online Form">Online Form - 11/18/16 - Intro to R</a></noscript>
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/intro_r012017"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_r012017" title="Online Form">Online Form - 1/20/17 - Intro to R</a></noscript>
