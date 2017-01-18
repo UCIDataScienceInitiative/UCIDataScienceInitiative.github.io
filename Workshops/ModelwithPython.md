@@ -1,12 +1,12 @@
 ---
 layout: workshop
-instructor: "Brian Vegetabile, Christine Lee, Eric Nalisnick "
-TA: 		"Preston Hinkle"
+instructor: "Preston Hinkle, John Schomberg, Brian Vegetabile "
+TA: 		
 title: 		Predictive Modeling with Python
 room:		DBH 4011
-humandate:	November 7, 2016
+humandate:	February 3, 2017
 humantime:	9:00am - 5:00pm 
-workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython
+workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/wi_17
 permalink: Workshops/ModelwithPython/
 ---
 
@@ -20,7 +20,7 @@ Python is a popular language for scientific computing and machine learning. This
 
 **Prerequisites:** A previous course in programming is strongly recommended. 
 
-**Contact**: Please mail [enalisni@uci.edu](mailto:enalisni@uci.edu) or [bvegetab@uci.edu](mailto:bvegetab@uci.edu) for more information.
+**Contact**: Please mail [thinkle@uci.edu](mailto:thinkle@uci.edu) or [jschombe@uci.edu](mailto:jschombe@uci.edu) for more information.
 
 * * *
 
@@ -64,6 +64,6 @@ Python is a popular language for scientific computing and machine learning. This
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython>
+See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/wi_17>
 We'll expect you to have the Anaconda Python distribution installed with version 2.7 activated: <https://www.continuum.io/downloads>
 
