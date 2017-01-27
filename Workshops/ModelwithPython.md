@@ -67,3 +67,7 @@ Python is a popular language for scientific computing and machine learning. This
 See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/wi_17>
 We'll expect you to have the Anaconda Python distribution installed with version 2.7 activated: <https://www.continuum.io/downloads>
 
+
+## <a name="Registration"></a>Registration
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/python_020317"></script><noscript><a href="https://uci-oai.formstack.com/forms/python_020317" title="Online Form">Online Form - 2/3/17 - Predictive Python</a></noscript>
+
