@@ -59,4 +59,4 @@ The course will be taught using jupyter notebooks in python. NLP tools covered w
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/IntroToNLP>
+See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/NLP>
