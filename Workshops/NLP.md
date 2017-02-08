@@ -50,7 +50,10 @@ The course will be taught using jupyter notebooks in python. NLP tools covered w
   * TFIDF
   * Evaluation 
 3. Clustering 
-  * Document Similartiy  
+  * Document Similartiy      
+  
+Time Permitting:     
+
 4. Dimensionality Reduction  
   * Topic Modeling 
   * Visualization 
