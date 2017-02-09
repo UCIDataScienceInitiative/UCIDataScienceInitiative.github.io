@@ -35,7 +35,7 @@ The course will be taught using jupyter notebooks in python. NLP tools covered w
 | 9:00-10:30   | **Text Processing and Document Classification**          |
 | 10:30 - 10:45 | Break         |
 | 10:45-12:30   | **Document Similarity and Clustering**          |
-| 12:30-1:00    | Lunch            |
+
 
 * * *
 
