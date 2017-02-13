@@ -1,11 +1,11 @@
 ---
 layout: workshop
 instructor: "Lingge Li, Dustin Pluta"
-TA: 		"Colleen Nell"
+TA: 		"Daisy Wang"
 title: 		"Topics in R"
 room:		DBH 4011
-humandate:	December 2, 2016
-humantime:	9am - 4:00pm 
+humandate:	February 21, 2017
+humantime:	9:00am - 5:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
 permalink: Workshops/TopicsR/
 ---
@@ -51,4 +51,4 @@ Using RStudio is encouraged.
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop">Github Repo</a>
 
 ## <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/topics_r_120216"></script><noscript><a href="https://uci-oai.formstack.com/forms/topics_r_120216" title="Online Form">Online Form - 12/2/16 - Topics in R</a></noscript>
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/topics_r022117"></script><noscript><a href="https://uci-oai.formstack.com/forms/topics_r022117" title="Online Form">Online Form - 2/21/17 - Topics in R</a></noscript>
