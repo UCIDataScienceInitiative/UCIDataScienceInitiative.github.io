@@ -12,12 +12,16 @@ permalink: Workshops/TopicsR/
 
 ## Introduction
 
-This workshop covers data visualization and performance issues in R. You will become familiar with the layered grammar of graphics behind ggplot2 and the reactive environment in Shiny through detailed hands-on examples. For the second half of the course, you will be guided through vector methods and vectorization, as well as other methods to write cleaner, quicker performance code.
+This workshop covers a selection of tools and packages developed by the RStudio team.  The packages discussed include:
++ `ggplot2` for plotting and data vizualization
++ `dplyr` for easy data manipulation
++ `Shiny` to create interactive data analysis apps
++ `RMarkdown` to compose data analysis reports and presentations that can include executable code
 
 
 **Prerequisites:** Introduction to R, or equivalent experience using R.
 
-**Contact**: Please mail [dpluta@gmail.com](mailto:dpluta@gmail.com) or [linggel@uci.edu](mailto:linggel@uci.edu) for more information.
+**Contact**: Please mail [dpluta@uci.edu](mailto:dpluta@uci.edu) or [linggel@uci.edu](mailto:linggel@uci.edu) for more information.
 
 * * *
 
@@ -32,9 +36,9 @@ This workshop covers data visualization and performance issues in R. You will be
 | 10:20-10:30   | break  |
 | 10:30-12:30   | Shiny	|
 | 12:30-1:00	| Lunch			|
-| 1:00-2:30		| Vectors |
+| 1:00-2:30		| dplyr |
 | 2:30-2:45		| Break			|
-| 2:45-4:00	| More Performance |
+| 2:45-4:00	| RMarkdown |
 
 * * *
 
@@ -43,9 +47,9 @@ This workshop covers data visualization and performance issues in R. You will be
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-We'll expect you to have the following packages installed: `ggplot2`, `shiny`.
+We'll expect you to have the following packages installed: `ggplot2`, `shiny`, `dplyr`.
 
-Using RStudio is encouraged.
+Using RStudio is required, and it is recommended that you update to the latest version.
 
 
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop">Github Repo</a>
