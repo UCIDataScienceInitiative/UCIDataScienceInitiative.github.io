@@ -60,3 +60,6 @@ The course will be taught using jupyter notebooks in python. NLP tools covered w
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
 See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/NLP>
+
+## <a name="Registration"></a>Registration
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/nlp030317"></script><noscript><a href="https://uci-oai.formstack.com/forms/nlp030317" title="Online Form">Online Form - 3/3/17 - NLP</a></noscript>
