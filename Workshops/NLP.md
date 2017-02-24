@@ -5,7 +5,7 @@ TA:
 title: 		Natural Languange Processing
 room:		DBH 4011
 humandate:	March 3, 2017
-humantime:	9:00am - 1:00 pm 
+humantime:	9:00am - 12:30 pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/NLP
 permalink: Workshops/NLP/
 ---
