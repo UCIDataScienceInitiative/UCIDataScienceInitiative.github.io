@@ -4,15 +4,15 @@ instructor: "Eric Nalisnick"
 TA: 	
 title: 		Advanced Predictive Modeling in Python
 room:		DBH 4011
-humandate:	May 6, 2016
-humantime:	9:00am - 12:30pm 
+humandate:	March 2, 2017
+humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython
 permalink: Workshops/AdvancedPython/
 ---
 
 ## Introduction
 
-This half-day course builds upon *Predictive Modeling with Python*, covering best practices for building predictive models that perform well in noisy, real-world domains.  Feature learning/engineering and model ensembling will be the focus of the course.  Examples and exercises will be implemented using Jupyter (formerly iPython) notebooks and the SciKit-Learn library.  Participants must have taken Predictive Modeling with Python or obtain instructor permission to enroll.
+This course builds upon *Predictive Modeling with Python*, covering best practices for building predictive models that perform well in noisy, real-world domains.  Feature learning/engineering and model ensembling will be the focus of the course.  Examples and exercises will be implemented using Jupyter (formerly iPython) notebooks and the SciKit-Learn library.  Participants must have taken Predictive Modeling with Python or obtain instructor permission to enroll.
 
 **Who:** Anyone who has completed the *Predictive Modeling with Python* course and wishes to train and deploy predicitve models in real-world domains.
 
