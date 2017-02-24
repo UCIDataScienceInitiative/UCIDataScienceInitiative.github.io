@@ -53,3 +53,6 @@ See the course's GitHub page for instructions: <https://github.com/UCIDataScienc
 We'll expect you to have the Anaconda Python distribution installed: <https://www.continuum.io/downloads>
 
 Please then run the test notebook to ensure proper installation and to download two datasets: <https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython/blob/master/Test%20Notebook.ipynb>
+
+## <a name="Registration"></a>Registration
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/adv_python030217"></script><noscript><a href="https://uci-oai.formstack.com/forms/adv_python030217" title="Online Form">Online Form - 3/2/17 - Advanced Predictive Python</a></noscript>
