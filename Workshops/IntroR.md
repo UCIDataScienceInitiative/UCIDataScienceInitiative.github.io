@@ -1,10 +1,10 @@
 ---
 layout: workshop
-instructor: "Emma Smith, Yuxiao Wang"
-TA: 		"Angela Garibaldi"
+instructor: "Emma Smith, Chris Galbraith"
+TA: 		"Kevin Cochran"
 title: 		Introduction to R
 room:		DBH 4011
-humandate:	January 20, 2017
+humandate:	April 13, 2017
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroR_Workshop 
 permalink: Workshops/IntroR/
@@ -22,7 +22,7 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 **Prerequisites:** Some programming experience is recommended. 
 
-**Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [yuxiaow1@uci.edu](mailto:yuxiaow1@uci.edu) for more information.
+**Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [galbraic@uci.edu](mailto:galbraic@uci.edu) for more information.
 
 * * *
 
@@ -79,4 +79,4 @@ R> install.packages("PackageName", dependencies = TRUE)
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroR_Workshop">Github Repo</a>
 
 ### <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_r012017"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_r012017" title="Online Form">Online Form - 1/20/17 - Intro to R</a></noscript>
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_r041217"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_r041217" title="Online Form">Online Form - 4/13/17 - Intro to R</a></noscript>
