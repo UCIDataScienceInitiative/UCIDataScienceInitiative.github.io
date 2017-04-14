@@ -1,12 +1,12 @@
 ---
 layout: workshop
-instructor: "Preston Hinkle, John Schomberg, Brian Vegetabile "
-TA: 		
+instructor: "Preston Hinkle, John Schomberg "
+TA: 		"Gabe Yu"
 title: 		Predictive Modeling with Python
 room:		DBH 4011
 humandate:	April 27, 2017
 humantime:	9:00am - 5:00pm 
-workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/wi_17
+workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/sp_17
 permalink: Workshops/ModelwithPython/
 ---
 
@@ -64,7 +64,7 @@ Python is a popular language for scientific computing and machine learning. This
 
 ## <a name="Instructions"></a>Pre-Workshop Instructions
 
-See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/wi_17>
+See the course's GitHub page for instructions: <https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/sp_17>
 We'll expect you to have the Anaconda Python distribution installed with version 2.7 activated: <https://www.continuum.io/downloads>
 
 
