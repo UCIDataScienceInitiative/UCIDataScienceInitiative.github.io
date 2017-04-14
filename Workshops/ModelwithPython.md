@@ -4,7 +4,7 @@ instructor: "Preston Hinkle, John Schomberg, Brian Vegetabile "
 TA: 		
 title: 		Predictive Modeling with Python
 room:		DBH 4011
-humandate:	February 3, 2017
+humandate:	April 27, 2017
 humantime:	9:00am - 5:00pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/wi_17
 permalink: Workshops/ModelwithPython/
@@ -69,5 +69,5 @@ We'll expect you to have the Anaconda Python distribution installed with version
 
 
 ## <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/python_020317"></script><noscript><a href="https://uci-oai.formstack.com/forms/python_020317" title="Online Form">Online Form - 2/3/17 - Predictive Python</a></noscript>
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_python042117"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_python042117" title="Online Form">Online Form - 4/21/17 - Python</a></noscript>
 
