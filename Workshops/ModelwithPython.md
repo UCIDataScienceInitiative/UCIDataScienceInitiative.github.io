@@ -4,7 +4,7 @@ instructor: "Preston Hinkle, John Schomberg "
 TA: 		"Gabe Yu"
 title: 		Predictive Modeling with Python
 room:		DBH 4011
-humandate:	April 27, 2017
+humandate:	April 21, 2017
 humantime:	9:00am - 5:00pm 
 workshop-repo: https://github.com/UCIDataScienceInitiative/PredictiveModeling_withPython/tree/sp_17
 permalink: Workshops/ModelwithPython/
