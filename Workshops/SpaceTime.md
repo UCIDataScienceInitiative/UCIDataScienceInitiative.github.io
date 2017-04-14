@@ -13,6 +13,7 @@ permalink: Workshops/SpaceTime/
 ## Introduction
 
 Data collected in time and/or space exhibit unique properties that require attention to draw proper conclusions from statistical analyses. In this workshop, students are introduced to statistical concepts that are particularly useful for analyzing spatial-temporal data.
+
 **Who:** This course is targeted primarily at graduate students and researchers who have not already taken a full course in machine learning.
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
