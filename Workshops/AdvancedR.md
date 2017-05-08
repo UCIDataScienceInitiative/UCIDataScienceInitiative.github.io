@@ -1,10 +1,10 @@
 ---
 layout: workshop
-instructor: "Lingge Li, Dustin Pluta"
-TA: 		"Daisy Wang"
+instructor: "Colleen Nell, Dustin Pluta"
+TA: 		
 title: 		"Topics in R"
 room:		DBH 4011
-humandate:	February 21, 2017
+humandate:	May 12, 2017
 humantime:	9:00am - 5:00pm 
 workshop_repo: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop 
 permalink: Workshops/TopicsR/
@@ -21,7 +21,7 @@ This workshop covers a selection of tools and packages developed by the RStudio 
 
 **Prerequisites:** Introduction to R, or equivalent experience using R.
 
-**Contact**: Please mail [dpluta@uci.edu](mailto:dpluta@uci.edu) or [linggel@uci.edu](mailto:linggel@uci.edu) for more information.
+**Contact**: Please mail [dpluta@uci.edu](mailto:dpluta@uci.edu) or [cnell@uci.edu](mailto:cnell@uci.edu) for more information.
 
 * * *
 
@@ -55,4 +55,4 @@ Using RStudio is required, and it is recommended that you update to the latest v
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop">Github Repo</a>
 
 ## <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/topics_r022117"></script><noscript><a href="https://uci-oai.formstack.com/forms/topics_r022117" title="Online Form">Online Form - 2/21/17 - Topics in R</a></noscript>
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/topics_in_r051217"></script><noscript><a href="https://uci-oai.formstack.com/forms/topics_in_r051217" title="Online Form">Online Form - 5/12/17 - Topics in R</a></noscript>
