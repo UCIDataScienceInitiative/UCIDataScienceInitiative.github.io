@@ -4,7 +4,7 @@ instructor: "Chris Rackauckas"
 TA: 		
 title: 		Introduction to Julia
 room:		DBH 4011
-humandate:	October 25, 2016
+humandate:	May 26, 2017
 humantime:	9:00am - 5:00pm
 workshop-repo: https://github.com/UCIDataScienceInitiative/IntroToJulia 
 permalink: Workshops/IntroJulia/
@@ -80,4 +80,4 @@ Installing Julia beforehand is not required, though highly recommended. Attendee
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroToJulia">Github Repository</a>
 
 ### Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/julia_102516"></script><noscript><a href="https://uci-oai.formstack.com/forms/julia_102516" title="Online Form">Online Form - 10/25/16 - Intro to Julia</a></noscript>
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_to_julia052617"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_to_julia052617" title="Online Form">Online Form - 5/26/17 - Intro to Julia</a></noscript>
