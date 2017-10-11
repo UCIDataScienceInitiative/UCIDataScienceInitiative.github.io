@@ -22,14 +22,14 @@ This course provides a brief introduction to the fundamentals of the R language 
 
 **Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [galbraic@uci.edu](mailto:galbraic@uci.edu) for more information.
 
-* * *
 
+* * *
 
 
 ## <a name="Schedule"></a>Tentative Schedule
 
-| 	Time	    |           	|
-| ------------- |:-------------:|
+| 	   Time	    |           				|
+| ------------- | :-------------:			|
 | 	8:30-9:00  	| Sign-in & Coffee/Bagels	|
 | 	9:00-12:30 	| Instruction 				|
 | 	12:30-1:00 	| Lunch						|
@@ -37,15 +37,17 @@ This course provides a brief introduction to the fundamentals of the R language 
 | 	2:30-2:45	| Break	with Coffee/Drinks	|
 | 	3:00-5:00	| Final Instruction 		|
 
-* * *
 
+* * *
 
 
 ## <a name="Syllabus"></a>Syllabus
 
-* a
-* b
-* c
+* *Fundamentals of R & RStudio*: the basics--including objects, subsetting, indexing, data I/O, and control structures.
+* *Exploratory Data Analysis*: all the necessary tools to investigate your data before performing any formal modeling--from summary statistics to plotting histgrams, boxplots, and scatterplots
+* *Linear Regression*: everything you need to know to begin fitting linear models--from simple t-tests to estimation of regression coefficients, variable selection, model diagnostics, and predection 
+* *Logistic Regression*: the basics of generalized linear models (GLMs) with an emphais on binary response data--we extend the theory and modeling strategies of linear regression
+
 
 * * *
 
@@ -59,18 +61,19 @@ First, visit The R Project for Statistical Computing's website through <https://
 ### Step 2: Download and install RStudio
 RStudio is a set of integrated tools designed to help you be more productive with R; it is known to be more user-friendly. You will be doing essentially all of your programming in RStudio. To download RStudio, go to <https://www.rstudio.com/products/rstudio/download/>. Download the installer for your platform under "Installers for Supported Platforms".
 
-### Step 3: Installing packages
-After installing R and RStudio, open RStudio. Not all functions have been installed in R, so utilizing certain functions requires you to install a package and ``open'' that package every time you open a new R session. There are two ways to install packages in RStudio.
 
-* Method 1: Find your console (for first-time R users, the console is located at the bottom-left of RStudio's interface). Then type the following code and press Ctrl + Enter or Run (the quotation marks are needed between the package name):
+### Step 3: Come to the Workshop
+You are now ready for the workshop! We will cover the rest of the ocurse materials together, inluding installing packages.
 
-```
-R> install.packages("PackageName", dependencies = TRUE)
-```
 
-* Method 2: On RStudio's taskbar, click on "Tools" and then "Install Packages..." Afterwards, put down the name of the package(s) you wish to install and click install.
+* * *
+
 
 ### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IDA-with-R">Github Repo</a>
+
+
+* * *
+
 
 <!-- ### <a name="Registration"></a>Registration
 <script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_r041217"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_r041217" title="Online Form">Online Form - 4/13/17 - Intro to R</a></noscript> -->
