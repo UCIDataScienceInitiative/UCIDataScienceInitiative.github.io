@@ -43,10 +43,10 @@ This course provides a brief introduction to the fundamentals of the R language 
 
 ## <a name="Syllabus"></a>Syllabus
 
-* *Fundamentals of R & RStudio*: the basics--including objects, subsetting, indexing, data I/O, and control structures.
-* *Exploratory Data Analysis*: all the necessary tools to investigate your data before performing any formal modeling--from summary statistics to plotting histgrams, boxplots, and scatterplots
-* *Linear Regression*: everything you need to know to begin fitting linear models--from simple t-tests to estimation of regression coefficients, variable selection, model diagnostics, and predection 
-* *Logistic Regression*: the basics of generalized linear models (GLMs) with an emphais on binary response data--we extend the theory and modeling strategies of linear regression
+* **Fundamentals of R & RStudio**: the basics--including objects, subsetting, indexing, data I/O, and control structures.
+* **Exploratory Data Analysis**: all the necessary tools to investigate your data before performing any formal modeling--from summary statistics to plotting histgrams, boxplots, and scatterplots
+* **Linear Regression**: everything you need to know to begin fitting linear models--from simple t-tests to estimation of regression coefficients, variable selection, model diagnostics, and predection 
+* **Logistic Regression**: the basics of generalized linear models (GLMs) with an emphais on binary response data--we extend the theory and modeling strategies of linear regression
 
 
 * * *
