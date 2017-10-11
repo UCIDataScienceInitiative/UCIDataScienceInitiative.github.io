@@ -11,14 +11,12 @@ permalink: Workshops/IDA-with-R/
 ---
 
 ## Introduction
+This course provides a brief introduction to the fundamentals of the R language and focuses on its use for data analysis--including exploratory data analysis, linear and logistic regression, variable selection, model diagnostics, and prediction.
 
-This course provides an introduction to the fundamentals of the R language and its applications to data analysis.
 
-In this course, you will learn how to program in R and how to effectively use R for data analysis. The course covers introduction to data/object types in R, reading data, creating data visualizations, accessing and installing R packages, writing R functions, fitting statistical models including regression models and performing statistical tests including t-tests and ANOVA. Practical examples will be provided during the course.
+**Who:** The course is aimed at graudate students and other researchers from non-ICS schools. *You don't need to have any previous knowledge of the tools that will be presented at the workshop, bust some programming experience is necessary.*
 
-**Who:** The course is aimed at graudate students and other researchers from non-ICS schools. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
-
-**Requirements:** Participants must bring a laptop with a few specific software packages installed (see [Pre-Workshop Instructions](#Instructions)). 
+**Requirements:** Participants must bring a laptop with both R and RStudio installed (see [Pre-Workshop Instructions](#Instructions)). 
 
 **Prerequisites:** Some programming experience is recommended. 
 
@@ -45,13 +43,9 @@ In this course, you will learn how to program in R and how to effectively use R 
 
 ## <a name="Syllabus"></a>Syllabus
 
-* Data Types in R
-* Control Structures and Functions
-* Statistical Distributions in R
-* Exercises: Basic Data Exploration
-* Statistical Analysis in R
-* Plotting and Data Visualization in R
-* Data visualization & Statistical Analysis
+* a
+* b
+* c
 
 * * *
 
