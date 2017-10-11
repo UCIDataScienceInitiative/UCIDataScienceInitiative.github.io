@@ -70,7 +70,7 @@ R> install.packages("PackageName", dependencies = TRUE)
 
 * Method 2: On RStudio's taskbar, click on "Tools" and then "Install Packages..." Afterwards, put down the name of the package(s) you wish to install and click install.
 
-### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IntroR_Workshop">Github Repo</a>
+### <a name="Repo" href="https://github.com/UCIDataScienceInitiative/IDA-with-R">Github Repo</a>
 
-### <a name="Registration"></a>Registration
-<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_r041217"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_r041217" title="Online Form">Online Form - 4/13/17 - Intro to R</a></noscript>
+<!-- ### <a name="Registration"></a>Registration
+<script type="text/javascript" src="https://uci-oai.formstack.com/forms/js.php/intro_r041217"></script><noscript><a href="https://uci-oai.formstack.com/forms/intro_r041217" title="Online Form">Online Form - 4/13/17 - Intro to R</a></noscript> -->
