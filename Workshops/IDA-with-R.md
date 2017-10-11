@@ -10,7 +10,7 @@ workshop-repo: https://github.com/UCIDataScienceInitiative/IDA-with-R
 permalink: Workshops/IDA-with-R/
 ---
 
-## Introduction
+## Description
 This course provides a brief introduction to the fundamentals of the R language and focuses on its use for data analysis--including exploratory data analysis, linear and logistic regression, variable selection, model diagnostics, and prediction.
 
 
@@ -21,21 +21,6 @@ This course provides a brief introduction to the fundamentals of the R language 
 **Prerequisites:** Some programming experience is recommended. 
 
 **Contact**: Please email [emilyjs@uci.edu](mailto:emilyjs@uci.edu) or [galbraic@uci.edu](mailto:galbraic@uci.edu) for more information.
-
-
-* * *
-
-
-## <a name="Schedule"></a>Tentative Schedule
-
-| 	   Time	    |           				|
-| ------------- | :-------------:			|
-| 	8:30-9:00  	| Sign-in & Coffee/Bagels	|
-| 	9:00-12:30 	| Instruction 				|
-| 	12:30-1:00 	| Lunch						|
-| 	1:00-2:30	| Instruction 				|
-| 	2:30-2:45	| Break	with Coffee/Drinks	|
-| 	3:00-5:00	| Final Instruction 		|
 
 
 * * *
