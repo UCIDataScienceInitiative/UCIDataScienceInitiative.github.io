@@ -28,14 +28,14 @@ This course provides a brief introduction to the fundamentals of the R language 
 
 ## <a name="Schedule"></a>Tentative Schedule
 
-| Time	       	|           	|
+| 	Time	    |           	|
 | ------------- |:-------------:|
-| 8:30-9:00  | Sign-in & Coffee/Bagels	|
-| 9:00-12:30 | Instruction |
-| 12:30-1:00	| Lunch			|
-| 1:00-2:30		| Instruction |
-| 2:30-2:45		| Break	with Coffee/Drinks|
-| 3:00-5:00	  | Final Instruction |
+| 	8:30-9:00  	| Sign-in & Coffee/Bagels	|
+| 	9:00-12:30 	| Instruction 				|
+| 	12:30-1:00 	| Lunch						|
+| 	1:00-2:30	| Instruction 				|
+| 	2:30-2:45	| Break	with Coffee/Drinks	|
+| 	3:00-5:00	| Final Instruction 		|
 
 * * *
 
